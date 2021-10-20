@@ -43,10 +43,13 @@ __2021.8-至今__　基于机器学习算法的VR空间群体情感识别
 使用多种机器学习算法对时间序列数据进行分类学习  
 **［关键词］** VR、EEG、ECG、Emotion-Recognition、Machine Learning  
 
-------------------------------------------------------------------------------
+------------------------------------------------------------------------------  
+
 __2021.11-至今__ 基于opencv和win32api的pokemmo自动化钓鱼脚本 [Pokemmo-auto-Fishing](https://github.com/blue-sky-sea/Pokemmo-auto-Fishing)  
 **［项目介绍］** 基于识别库opencv和硬件模拟库win32api实现自动钓丑丑鱼，自动寻找鱼点   
 **［关键词］** Pokemmo、Opencv、auto-fishing  
+
+------------------------------------------------------------------------------  
 
 __2021.6-2021.9__　基于树莓派和VisionKit的研究室监控系统 [Pet-Monitor-Raspberrypi](https://github.com/blue-sky-sea/Pet-Monitor-Raspberrypi)   
 **［项目介绍］** 基于宠物看护系统项目，自主开发的研究室人类与环境监控系统  
