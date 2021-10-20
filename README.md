@@ -55,7 +55,7 @@ BME280模块获取温湿度、气压数据、HC-SR04模块获取距离数据并�
 
 ------------------------------------------------------------------------------
 
-__2020.11-2021.3__　基于蒙特卡洛树搜索（MCTS）算法的横滨市行程规划AI [MCTS-TRAVEL-PLAN]https://github.com/blue-sky-sea/MCTS-TRAVEL-PLAN  
+__2020.11-2021.3__　基于蒙特卡洛树搜索（MCTS）算法的横滨市行程规划AI [MCTS-TRAVEL-PLAN](https://github.com/blue-sky-sea/MCTS-TRAVEL-PLAN)  
 
 **［项目介绍］** 基于蒙特卡洛树搜索算法实现日本横滨市的一日旅行规划AI  
 **［负责的任务］**  
@@ -65,7 +65,7 @@ __2020.11-2021.3__　基于蒙特卡洛树搜索（MCTS）算法的横滨市行�
 
 ------------------------------------------------------------------------------
 
-__2019.9-2020.4__　基于蒙特卡洛树搜索（MCTS）算法的口袋妖怪对战AI [Pokemon-MCTS-AI-Master]https://github.com/blue-sky-sea/Pokemon-MCTS-AI-Master  
+__2019.9-2020.4__　基于蒙特卡洛树搜索（MCTS）算法的口袋妖怪对战AI [Pokemon-MCTS-AI-Master](https://github.com/blue-sky-sea/Pokemon-MCTS-AI-Master)
 
 **［项目介绍］** 本科阶段毕业设计。基于蒙特卡洛树搜索算法实现信息不完全游戏口袋妖怪的对战AI，并拓展到2v2模式  
 **［负责的任务］**    
@@ -75,7 +75,7 @@ __2019.9-2020.4__　基于蒙特卡洛树搜索（MCTS）算法的口袋妖怪�
 
 ------------------------------------------------------------------------------
 
-__2019.3-2019.6____ RadioActive拍照切题系统（浙江省服务外包大赛二等奖） [Paper-Question-recognition]https://github.com/blue-sky-sea/Paper-Question-recognition  
+__2019.3-2019.6____ RadioActive拍照切题系统（浙江省服务外包大赛二等奖） [Paper-Question-recognition](https://github.com/blue-sky-sea/Paper-Question-recognition)  
 
 **［项目介绍］** 服务外包创新应用大赛省赛赛题，要求实现自动切题系统，以试卷题目的照片为输入，将每道题切分出题目区域并输出，标出题干、选项等部分  
 **［项目中的角色和任务］** 小组队长  
