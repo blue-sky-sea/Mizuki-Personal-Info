@@ -55,6 +55,15 @@ BME280模块获取温湿度、气压数据、HC-SR04模块获取距离数据并�
 
 ------------------------------------------------------------------------------
 
+__2021.4-2021.5__  基于CNN-segNet的积雪语义分割实战 [Snow-segmentation-CNN-Segnet](https://github.com/blue-sky-sea/Snow-segmentation-CNN-Segnet)  
+
+**［项目介绍］** 基于CNN的积雪图像识别练手项目
+**［负责的任务］** 
+使用labelme对积雪图像进行标注，使用segNet网络进行迁移训练
+**［关键词］** CNN、segNet、Segmentation
+
+------------------------------------------------------------------------------
+
 __2020.11-2021.3__　基于蒙特卡洛树搜索（MCTS）算法的横滨市行程规划AI [MCTS-TRAVEL-PLAN](https://github.com/blue-sky-sea/MCTS-TRAVEL-PLAN)  
 
 **［项目介绍］** 基于蒙特卡洛树搜索算法实现日本横滨市的一日旅行规划AI  
