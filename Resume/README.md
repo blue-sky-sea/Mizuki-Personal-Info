@@ -48,7 +48,7 @@ JLPT-N1 131 points, J-TEST 739 points
 
 ## 项目经历
 __2021.8-至今__　Group-level Emotion recognition in Virtual Reality based on machine learning  
-**［项目介绍］** Tokyo Metropolitan University research project
+**［项目介绍］** Tokyo Metropolitan University research project  
 **［项目中的角色和任务］**  
 Reviewed the related paper to confirm the feasibility of the research and the experimental details
 Conducted a multi-person conversational emotion elicitation experiment in VR space.
@@ -75,16 +75,16 @@ Used SSH to control VisionKit for human perception recognition, and sended the p
 ------------------------------------------------------------------------------
 
 __2021.4-2021.5__  CNN-segNet Based Snow-segmentation In Practice
-**［项目介绍］**   CNN-based snow area recognition practice project
-**［负责的任务］**   
+**［项目介绍］**   CNN-based snow area recognition practice project  
+**［负责的任务］**     
 Used labelme to label the snow image and used the segNet network for migration training  
 **［Keyword］** CNN、segNet、Segmentation  
 
 ------------------------------------------------------------------------------
 
 __2020.11-2021.3__　Yokohama City Travel Planning AI Based on Monte Carlo Tree Search (MCTS) Algorithm  
-**［项目介绍］** Based on the Monte Carlo tree search algorithm to implement AI for one-day trip planning in Yokohama, Japan 
-**［负责的任务］**  
+**［项目介绍］** Based on the Monte Carlo tree search algorithm to implement AI for one-day trip planning in Yokohama, Japan   
+**［负责的任务］**   
 Used crawlers and Google Maps API to collect POI data and traffic travel data.   
 Based on the UCT algorithm, the points of interest and transportation are recommended and the recommendation scores are given. 
 Deployed the website on the cloud server based on Django.   
@@ -92,10 +92,10 @@ Deployed the website on the cloud server based on Django.
 
 ------------------------------------------------------------------------------
 
-__2019.9-2020.4__　Pokemon Battle AI based on Monte Carlo Tree Search (MCTS) algorithm  
+__2019.9-2020.4__　Pokemon Battle AI based on Monte Carlo Tree Search (MCTS) algorithm   
 **［项目介绍］** Graduation design at the undergraduate level. Based on MCTS, the AI for the Pokemon game with incomplete information was realized, and was
-extended to the 2v2 mode   
-**［负责的任务］**    
+extended to the 2v2 mode     
+**［负责的任务］**      
 Modified the battle simulation program to realize 2v2 battle mode.
 Realized the MCTS algorithm and UCT algorithm AI of Pokemon battle, and deployed to the battle simulation program.     
 Compared the pros and cons of IF-ELSE algorithm, UCT algorithm and classic MCTS algorithm.  
@@ -105,12 +105,12 @@ Compared the pros and cons of IF-ELSE algorithm, UCT algorithm and classic MCTS 
 
 __2019.3-2019.6____ RadioActive Examination Questions Area Recognition And Segmentation System  
 
-**［项目介绍］**  (the second prize of Zhejiang Service Outsourcing Competition) implement automatic examination question Recognition system, using the photo of the question paper as input, cutting out the question area for each question and marking out the question, options and other parts
-**［项目中的角色和任务］**   
-Responsible for the main code framework design, group-work task division and check  
+**［项目介绍］**  (the second prize of Zhejiang Service Outsourcing Competition) implement automatic examination question Recognition system, using the photo of the question paper as input, cutting out the question area for each question and marking out the question, options and other parts  
+**［项目中的角色和任务］**     
+Responsible for the main code framework design, group-work task division and check    
 Conceptualized and designed the cutting algorithm for double-page test papers, pattern matching rules and question range calculation algorithm  
 Designed the UI based on Tkinter, designed batch pre-processing and automatic question cutting functions, and designed manual proofreading functions  
-directed promotional video and participate in the topic defense
+directed promotional video and participate in the topic defense  
 
 **［Keyword］** Tkinter，re，opencv、baidu-ocr  
 
@@ -119,20 +119,20 @@ directed promotional video and participate in the topic defense
 ==============================================================================
 
 ## Internship experience
-__2021.10__ NTT DATA（NST） SE Short-term internship 
+__2021.10__ NTT DATA（NST） SE Short-term internship   
 Understand the responsibilities of SE in Japanese companies and the points to note in system analysis and design    
 Learn how to investigate and analyze social, industrial and corporate situations  
 
 ------------------------------------------------------------------------------
 
-__2021.6-2021.9__  Mechanical Research Laboratory, Tokyo Metropolitan University,Pet Monitoring System,Programmer
+__2021.6-2021.9__  Mechanical Research Laboratory, Tokyo Metropolitan University,Pet Monitoring System,Programmer  
 Interface with professors to confirm research project objectives and development requirements, confirm requirements documentation    
 Deploy Raspberry Pi and sensors, update environment dependencies, develop and test programs for new requirements    
 Write user manuals, problem solving manuals, code instructions and other documentation 
 
 ------------------------------------------------------------------------------
 
-__2019.10-2020.1__  ArcSoft,Assistant Project Manager 
+__2019.10-2020.1__  ArcSoft,Assistant Project Manager   
 Assist the Data Department Project Manager in data collection, processing, labeling task assignment and member management  
 Suggest problems in the data production process and the use of the data set, improve the efficiency and accuracy of the labeling staff, and complete the labeling tasks on time 
 
