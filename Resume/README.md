@@ -24,108 +24,116 @@
 
 =============================================================================
 
-## 教育背景  
+## Education Background  
 | 起止日期  | 学校 | 专业 | 
 |  :----:   | :----: | :----: |
-|2013.09~2016.06|	金华市第一中学| 无 |
-|2016.09~2020.06|	浙江大学城市学院|	软件工程| 
-|2021.04~2023.03|	东京都立大学|	情报科学| 
+|2013.09~2016.06|	Jinhua No.1 High School| None |
+|2016.09~2020.06|	Zhejiang University City College|	Software Engineering| 
+|2021.04~2023.03|	Tokyo Metropolitan University |	Computer Science| 
 
 =============================================================================
 
-## 荣誉证书
-浙江省大学生服务外包创新应用大赛二等奖、浙江省网络安全竞赛三等奖
+## Certificate
+Second Prize of Zhejiang University-Student Service Outsourcing Innovation Application Competition  
 
-学业优秀奖学金、实践优秀奖学金、三好学生  
+Third Prize of Zhejiang Province Network Security Competition  
 
-TOEIC 725分、TOEFL 83分、英语六级  
+Academic Excellence Scholarship, Practice Excellence Scholarship, Merit Student
 
-日本语能力测试JLPT－N1 131分、实用日本语鉴定J－TEST准B 739分  
+TOEFL score of 83
+
+JLPT-N1 131 points, J-TEST 739 points 
 
 =============================================================================
 
 ## 项目经历
-__2021.8-至今__　基于机器学习算法的VR空间群体情感识别  
-**［项目介绍］** 东京都立大学智能人机交互研究室修士研究项目  
-**［项目中的角色和任务］**  研究员 
-查阅文献确认研究方向和研究可行性，确认使用的实验器材和实验目标  
-在VR空间进行多人的对话情感诱发实验。使用Muse脑波头带和Polar H10收集EEG和ECG数据，记录被实验者的情感状态和氛围评价  
-对EEG和ECG数据进行处理，丢弃无用特征并添加新的数据特征  
-使用多种机器学习算法对时间序列数据进行分类学习  
-**［关键词］** VR、EEG、ECG、Emotion-Recognition、Machine Learning  
+__2021.8-至今__　Group-level Emotion recognition in Virtual Reality based on machine learning  
+**［项目介绍］** Tokyo Metropolitan University research project
+**［项目中的角色和任务］**  
+Reviewed the related paper to confirm the feasibility of the research and the experimental details
+Conducted a multi-person conversational emotion elicitation experiment in VR space.
+Collected EEG and ECG data using Muse brainwave headband and Polar H10。
+collaborators self report their emotional states and communication Atmosphere after experiments.
+Processed time series data of EEG and ECG , did classification using Machine learning algorithms  
+**［Keyword］** VR、EEG、ECG、Emotion-Recognition、Machine Learning  
 
 ------------------------------------------------------------------------------  
 
-__2021.11-至今__ 基于opencv和win32api的pokemmo自动化钓鱼脚本 [Pokemmo-auto-Fishing](https://github.com/blue-sky-sea/Pokemmo-auto-Fishing)  
-**［项目介绍］** 基于识别库opencv和硬件模拟库win32api实现自动钓丑丑鱼，自动寻找鱼点   
-**［关键词］** Pokemmo、Opencv、auto-fishing  
+__2021.11-至今__ Pokemmo automatic recording based on opencv and win32api 
+**［项目介绍］** Based on the recognition library opencv and the hardware simulation library win32api to automatically catch the Feebas and automatically find the fish spots    
+**［Keyword］** Pokemmo、Opencv、auto-fishing  
 
 ------------------------------------------------------------------------------  
 
-__2021.6-2021.9__　基于树莓派和VisionKit的研究室监控系统 [Pet-Monitor-Raspberrypi](https://github.com/blue-sky-sea/Pet-Monitor-Raspberrypi)   
-**［项目介绍］** 基于宠物看护系统项目，自主开发的研究室人类与环境监控系统  
-**［项目中的角色和任务］** 研究员，小组队长  
-BME280模块获取温湿度、气压数据、HC-SR04模块获取距离数据并保存  
-利用SSH控制VisionKit进行人类感知识别，识别到人后连同图片和环境数据发送到Slack平台  
-**［关键词］** Raspberry PI4、VisionKit、Slack、SSH、Human-Detection 
+__2021.6-2021.9__　Lab Monitoring System Based On Raspberry Pi And VisionKit  
+**［项目介绍］** Based on the pet care IOT system, a self-developed laboratory human and environmental monitoring system 
+**［项目中的角色和任务］**   
+The BME280 module obtains temperature, humidity, and air pressure data, and the HC-SR04 module obtains distance data and saves it  
+Used SSH to control VisionKit for human perception recognition, and sended the picture and environment data to the Slack platform when recognize people
+**［Keyword］** Raspberry PI4、VisionKit、Slack、SSH、Human-Detection 
 
 ------------------------------------------------------------------------------
 
-__2021.4-2021.5__  基于CNN-segNet的积雪语义分割实战 [Snow-segmentation-CNN-Segnet](https://github.com/blue-sky-sea/Snow-segmentation-CNN-Segnet)  
-**［项目介绍］** 基于CNN的积雪图像识别练手项目  
+__2021.4-2021.5__  CNN-segNet Based Snow-segmentation In Practice
+**［项目介绍］**   CNN-based snow area recognition practice project
 **［负责的任务］**   
-使用labelme对积雪图像进行标注，使用segNet网络进行迁移训练  
-**［关键词］** CNN、segNet、Segmentation  
+Used labelme to label the snow image and used the segNet network for migration training  
+**［Keyword］** CNN、segNet、Segmentation  
 
 ------------------------------------------------------------------------------
 
-__2020.11-2021.3__　基于蒙特卡洛树搜索（MCTS）算法的横滨市行程规划AI [MCTS-TRAVEL-PLAN](https://github.com/blue-sky-sea/MCTS-TRAVEL-PLAN)  
-**［项目介绍］** 基于蒙特卡洛树搜索算法实现日本横滨市的一日旅行规划AI  
+__2020.11-2021.3__　Yokohama City Travel Planning AI Based on Monte Carlo Tree Search (MCTS) Algorithm  
+**［项目介绍］** Based on the Monte Carlo tree search algorithm to implement AI for one-day trip planning in Yokohama, Japan 
 **［负责的任务］**  
-利用爬虫和Google地图API收集POI数据以及交通出行数据  
-基于UCT算法实现兴趣点与交通方式推荐并给出推荐得分。基于Django部署网站在云服务器上  
-**［关键词］** BeautifulSoup、Google Map、MCTS、Django、Travel-plan  
+Used crawlers and Google Maps API to collect POI data and traffic travel data.   
+Based on the UCT algorithm, the points of interest and transportation are recommended and the recommendation scores are given. 
+Deployed the website on the cloud server based on Django.   
+**［Keyword］** BeautifulSoup、Google Map、MCTS、Django、Travel-plan  
 
 ------------------------------------------------------------------------------
 
-__2019.9-2020.4__　基于蒙特卡洛树搜索（MCTS）算法的口袋妖怪对战AI [Pokemon-MCTS-AI-Master](https://github.com/blue-sky-sea/Pokemon-MCTS-AI-Master)  
-**［项目介绍］** 本科阶段毕业设计。基于蒙特卡洛树搜索算法实现信息不完全游戏口袋妖怪的对战AI，并拓展到2v2模式   
+__2019.9-2020.4__　Pokemon Battle AI based on Monte Carlo Tree Search (MCTS) algorithm  
+**［项目介绍］** Graduation design at the undergraduate level. Based on MCTS, the AI for the Pokemon game with incomplete information was realized, and was
+extended to the 2v2 mode   
 **［负责的任务］**    
-实现口袋妖怪对战的MCTS算法和UCT算法AI，并部署到对战模拟程序上    
-修改对战模拟程序实现了2v2对战及2v2模式下的AI。比较了IF-ELSE算法，UCT算法和经典MCTS算法的优劣性    
-**［关键词］** pygame、BeautifulSoup、MCTS、Pokemon    
+Modified the battle simulation program to realize 2v2 battle mode.
+Realized the MCTS algorithm and UCT algorithm AI of Pokemon battle, and deployed to the battle simulation program.     
+Compared the pros and cons of IF-ELSE algorithm, UCT algorithm and classic MCTS algorithm.  
+**［Keyword］** pygame、BeautifulSoup、MCTS、Pokemon    
 
 ------------------------------------------------------------------------------
 
-__2019.3-2019.6____ RadioActive拍照切题系统（浙江省服务外包大赛二等奖） [Paper-Question-recognition](https://github.com/blue-sky-sea/Paper-Question-recognition)  
-**［项目介绍］** 服务外包创新应用大赛省赛赛题，要求实现自动切题系统，以试卷题目的照片为输入，将每道题切分出题目区域并输出，标出题干、选项等部分  
-**［项目中的角色和任务］** 小组队长  
-负责主要代码框架逻辑设计，组员任务分工与检查  
-自主构思设计双页试卷的切分算法，模式匹配规则以及题目范围计算算法  
-基于Tkinter设计界面，设计批量预处理和自动切题功能，添加人工校对功能  
-自主导演拍摄宣传视频，参与评审会答辩  
-**［关键词］** Tkinter，re，opencv、baidu-ocr  
+__2019.3-2019.6____ RadioActive Examination Questions Area Recognition And Segmentation System  
+
+**［项目介绍］**  (the second prize of Zhejiang Service Outsourcing Competition) implement automatic examination question Recognition system, using the photo of the question paper as input, cutting out the question area for each question and marking out the question, options and other parts
+**［项目中的角色和任务］**   
+Responsible for the main code framework design, group-work task division and check  
+Conceptualized and designed the cutting algorithm for double-page test papers, pattern matching rules and question range calculation algorithm  
+Designed the UI based on Tkinter, designed batch pre-processing and automatic question cutting functions, and designed manual proofreading functions  
+directed promotional video and participate in the topic defense
+
+**［Keyword］** Tkinter，re，opencv、baidu-ocr  
 
 ------------------------------------------------------------------------------
 
 ==============================================================================
 
-## 实习经历
-__2021.10__ NTT DATA（NST） SE短期实习  
-了解日企SE（系统工程师）的职责和系统分析设计的注意点    
-学习针对社会，业界，企业情况的调查和分析方法    
+## Internship experience
+__2021.10__ NTT DATA（NST） SE Short-term internship 
+Understand the responsibilities of SE in Japanese companies and the points to note in system analysis and design    
+Learn how to investigate and analyze social, industrial and corporate situations  
 
 ------------------------------------------------------------------------------
 
-__2021.6-2021.9__ 东京都立大学机械研究室宠物监控系统 程序员   
-和教授对接，确认研究项目目标和开发需求，确认需求文档    
-部署树莓派和传感器，更新环境依赖，对新需求进行程序开发和测试    
-编写用户手册，问题解决手册，代码说明等文档  
+__2021.6-2021.9__  Mechanical Research Laboratory, Tokyo Metropolitan University,Pet Monitoring System,Programmer
+Interface with professors to confirm research project objectives and development requirements, confirm requirements documentation    
+Deploy Raspberry Pi and sensors, update environment dependencies, develop and test programs for new requirements    
+Write user manuals, problem solving manuals, code instructions and other documentation 
 
 ------------------------------------------------------------------------------
 
-__2019.10-2020.1__  虹软科技 项目经理助理  
-协助数据部项目经理进行数据的收集，处理，标注的任务分配和成员管理  
-对数据制作过程中存在的问题以及对数据集的活用提出建议，提高标注人员效率和准确率，按时完成标注任务  
+__2019.10-2020.1__  ArcSoft,Assistant Project Manager 
+Assist the Data Department Project Manager in data collection, processing, labeling task assignment and member management  
+Suggest problems in the data production process and the use of the data set, improve the efficiency and accuracy of the labeling staff, and complete the labeling tasks on time 
 
 ------------------------------------------------------------------------------
