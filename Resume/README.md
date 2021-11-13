@@ -66,35 +66,35 @@ __2021.11-至今__ Pokemmo automatic recording based on opencv and win32api
 ------------------------------------------------------------------------------  
 
 __2021.6-2021.9__　Lab Monitoring System Based On Raspberry Pi And VisionKit  
-**［项目介绍］** Based on the pet care IOT system, a self-developed laboratory human and environmental monitoring system 
+**［项目介绍］** Based on the pet care IOT system, a self-developed laboratory human and environmental monitoring system   
 **［项目中的角色和任务］**   
-The BME280 module obtains temperature, humidity, and air pressure data, and the HC-SR04 module obtains distance data and saves it  
-Used SSH to control VisionKit for human perception recognition, and sended the picture and environment data to the Slack platform when recognize people
-**［Keyword］** Raspberry PI4、VisionKit、Slack、SSH、Human-Detection 
+The BME280 module obtains temperature, humidity, and air pressure data, and the HC-SR04 module obtains distance data and saves it    
+Used SSH to control VisionKit for human perception recognition, and sended the picture and environment data to the Slack platform when recognize people  
+**［Keyword］** Raspberry PI4、VisionKit、Slack、SSH、Human-Detection   
 
 ------------------------------------------------------------------------------
 
-__2021.4-2021.5__  CNN-segNet Based Snow-segmentation In Practice
-**［项目介绍］**   CNN-based snow area recognition practice project  
+__2021.4-2021.5__  CNN-segNet Based Snow-segmentation In Practice  
+**［项目介绍］**   CNN-based snow area recognition practice project      
+**［负责的任务］**       
+Used labelme to label the snow image and used the segNet network for migration training      
+**［Keyword］** CNN、segNet、Segmentation    
+
+------------------------------------------------------------------------------
+
+__2020.11-2021.3__　Yokohama City Travel Planning AI Based on Monte Carlo Tree Search (MCTS) Algorithm    
+**［项目介绍］** Based on the Monte Carlo tree search algorithm to implement AI for one-day trip planning in Yokohama, Japan     
 **［负责的任务］**     
-Used labelme to label the snow image and used the segNet network for migration training  
-**［Keyword］** CNN、segNet、Segmentation  
+Used crawlers and Google Maps API to collect POI data and traffic travel data.     
+Based on the UCT algorithm, the points of interest and transportation are recommended and the recommendation scores are given.   
+Deployed the website on the cloud server based on Django.     
+**［Keyword］** BeautifulSoup、Google Map、MCTS、Django、Travel-plan    
 
 ------------------------------------------------------------------------------
 
-__2020.11-2021.3__　Yokohama City Travel Planning AI Based on Monte Carlo Tree Search (MCTS) Algorithm  
-**［项目介绍］** Based on the Monte Carlo tree search algorithm to implement AI for one-day trip planning in Yokohama, Japan   
-**［负责的任务］**   
-Used crawlers and Google Maps API to collect POI data and traffic travel data.   
-Based on the UCT algorithm, the points of interest and transportation are recommended and the recommendation scores are given. 
-Deployed the website on the cloud server based on Django.   
-**［Keyword］** BeautifulSoup、Google Map、MCTS、Django、Travel-plan  
-
-------------------------------------------------------------------------------
-
-__2019.9-2020.4__　Pokemon Battle AI based on Monte Carlo Tree Search (MCTS) algorithm   
+__2019.9-2020.4__　Pokemon Battle AI based on Monte Carlo Tree Search (MCTS) algorithm     
 **［项目介绍］** Graduation design at the undergraduate level. Based on MCTS, the AI for the Pokemon game with incomplete information was realized, and was
-extended to the 2v2 mode     
+extended to the 2v2 mode       
 **［负责的任务］**      
 Modified the battle simulation program to realize 2v2 battle mode.
 Realized the MCTS algorithm and UCT algorithm AI of Pokemon battle, and deployed to the battle simulation program.     
@@ -104,14 +104,12 @@ Compared the pros and cons of IF-ELSE algorithm, UCT algorithm and classic MCTS 
 ------------------------------------------------------------------------------
 
 __2019.3-2019.6____ RadioActive Examination Questions Area Recognition And Segmentation System  
-
 **［项目介绍］**  (the second prize of Zhejiang Service Outsourcing Competition) implement automatic examination question Recognition system, using the photo of the question paper as input, cutting out the question area for each question and marking out the question, options and other parts  
 **［项目中的角色和任务］**     
 Responsible for the main code framework design, group-work task division and check    
 Conceptualized and designed the cutting algorithm for double-page test papers, pattern matching rules and question range calculation algorithm  
 Designed the UI based on Tkinter, designed batch pre-processing and automatic question cutting functions, and designed manual proofreading functions  
 directed promotional video and participate in the topic defense  
-
 **［Keyword］** Tkinter，re，opencv、baidu-ocr  
 
 ------------------------------------------------------------------------------
