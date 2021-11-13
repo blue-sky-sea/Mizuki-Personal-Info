@@ -59,8 +59,8 @@ Processed time series data of EEG and ECG , did classification using Machine lea
 
 ------------------------------------------------------------------------------  
 
-__2021.11-至今__ Pokemmo automatic recording based on opencv and win32api 
-**［项目介绍］** Based on the recognition library opencv and the hardware simulation library win32api to automatically catch the Feebas and automatically find the fish spots    
+__2021.11-至今__ Pokemmo automatic recording based on opencv and win32api   
+**［项目介绍］** Based on the recognition library opencv and the hardware simulation library win32api to automatically catch the Feebas and automatically find the fish spots      
 **［Keyword］** Pokemmo、Opencv、auto-fishing  
 
 ------------------------------------------------------------------------------  
