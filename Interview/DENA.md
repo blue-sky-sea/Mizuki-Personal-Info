@@ -48,7 +48,7 @@ JAVA・VUEでSSMインフラに基づく降水量可視化GISサイトを開発�
 - 開発環境:　Python, Pygame, Monte Carlo tree search algorithm,
 - プロダクトの簡単な説明:　
 Pygameに基づく2 v 2対戦シミュレーションプログラムを開発した。MCTSとUCTアルゴリズムに基づくポケモン対戦AIを実現し、プシミュレーターに実装した。
-- 公開URL:　https://github.com/blue-sky-sea/Pokemon-MCTS-AI-Master
+
 
 (4)
 - システムの名前:　MCTSに基づく横浜市旅行経路計画AI・GISシステム開発
@@ -58,7 +58,6 @@ Pygameに基づく2 v 2対戦シミュレーションプログラムを開発し
 - プロダクトの簡単な説明:　
 beautiful Soupで観光スポットのデータをGoogle APIで収集した。横浜市一日の旅行計画AIをMCTSアルゴリズムで実装した。DjangoでGISウェブサイトを開発した。
 ユーザーが入力した好みに合わせて、旅行計画結果をあげる。
-- 公開URL:https://github.com/blue-sky-sea/BioSensor-Grouplevel-Emotion-Recognition
 
 (5)
 - 研究の名前:　VRにおけるセンサフュージョンに基づくグループレベルの感情認識
