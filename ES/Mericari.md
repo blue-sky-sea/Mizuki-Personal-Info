@@ -1,3 +1,7 @@
+## What motivated you to apply for Build@Mercari? (around 150 words) *
+Mercari is a reliable e-commerce marketplace in Japan, which was founded in 2013, using advanced technology and focusing on diversity&inclusion. It's a young and dynamic company, which is quite different from other Japanese companies according to my first impression. I had finished my long-term internship in Rakuten so I already have some knowledge of developing as an API backend engineer. By Build@Mercari, I want to figure out the advantages of Mercari, develop a spirit of serving diverse customers, and compare with Rakuten. As an egalitarian, I always pay attention to minority rights and hope to improve their positions and raise the attention of society to them.Build@Mercari is intended to encourage everyone including those who identify as minorities, so I think mercari has a very good sense of social responsibility and mission, which drives me to join this project and makes me want to know more about Mercari.
+
+
 ##  チーム開発の経験があれば具体的にご記入ください。（インターンシップ・アルバイト・課外活動等）また、どのようなチーム構成でその中であなたがどんな役割をしていたかご記入ください。（どのくらいの人数で、どのような構成のチームで開発していましたか。）
 
 (1)大学院の研究室でアルバイト
