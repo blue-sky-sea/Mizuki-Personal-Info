@@ -65,7 +65,9 @@ Virtual Realityについて興味があります。
 
 【MCTSに基づく横浜市旅行経路計画AI・GISシステム開発 期間:2021年3月~2021年6月（3ヵ月） 開発環境:Python, beautiful Soup, Django, folium, Monte Carlo tree search algorithm 内容:beautiful Soupで観光スポットのデータをGoogle APIで収集した。横浜市一日の旅行計画AIをMCTSアルゴリズムで実装した。DjangoでGISウェブサイトを開発した。 ユーザーが入力した好みに合わせて、旅行計画結果を提示する。】
 
-SSM View层，Controller层，Service层，DAO层四层
+SSMにView层，Controller层，Service层，DAO层があり
+Spring IOC特性あり、OBJECTの間の依存関係の完了をSpringにまかせて、OBJECTの間の影響が少なくなる。
+AOPの特性で、事務、LOG、permissionなどの管理がやすくなる。
 【SSMに基づく杭州市降水量可視化GISサイト開発 期間：2019年6月~2019年7月（1ヵ月） 使用技術：Spring、SpringMVC、MyBatis、Maven、Baidu Map、Echarts、MYSQL 内容：私は2019年6月からの１ヶ月、大学研究室でJava開発の課題に参加した。JAVAでSSMインフラに基づく降水量、洪水可視化GISサイトのバックエンドの部分を開発した。8GのデータをMySqlで保存し、データの取得、更新などの機能を実現した。そして、ARIMAアルゴリズムで降水量予測の機能を実装した。】
 
 【SSMに基づくオンラインテストサイト開発 期間:2019年5月~2018年6月（1ヵ月） 開発環境:Spring、SpringMVC、MyBatis、Oracle 説明:私は2019年5月からの1ヵ月、大学研修でJava開発の課題に参加した。JAVAでSSMインフラに基づくオンラインテストサイトサイトを開発した。問題と答案をアップロード・削除・ステータス変更、自動採点の機能を開発した。】
