@@ -1,3 +1,4 @@
+労働条件通知書ありがとうございました。
 ## Probationary Period
 Probationary Periodの三ヶ月はつまり入社研修ですか？  
 
